@@ -16,5 +16,5 @@ nums=list(map(int,input().split()))
 #function call
 res=buildArray(nums)
 print(res)
-
+#sryusdjgjti7rhdjfluurykedjchncvnvmhfjdh
         
