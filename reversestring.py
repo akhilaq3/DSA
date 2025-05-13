@@ -29,3 +29,13 @@
 # l1=l[::-1]
 # print(l1)
 
+
+
+#reversing the each word characters in the sentence
+# s="python interpreted language"
+# l=s.split()
+# l1=[]
+# for word in l:
+#     l1.append(word[::-1])
+# print(l1)
+
